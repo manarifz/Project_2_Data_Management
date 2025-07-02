@@ -1,6 +1,6 @@
 # ✈️ Airline On-Time Performance Analysis
 
-This project investigates airline on-time performance using a real-world dataset from the U.S. Department of Transportation, sourced via Kaggle. The dataset comprises detailed flight records between 2003 and 2008. As part of the STQD6324 Data Management course for Semester 2, 2024/2025, this analysis focuses on one selected year and aims to uncover key insights into flight delays and cancellations.
+This project investigates airline on-time performance using a real-world dataset from the U.S. Department of Transportation, sourced via Kaggle. The dataset comprises detailed flight records between 2003 and 2008. As part of the STQD6324 Data Management course for Semester 2, 2024/2025, this analysis focuses on year 2007 and aims to uncover key insights into flight delays and cancellations.
 
 The primary objective is to answer data-driven questions related to:
 
